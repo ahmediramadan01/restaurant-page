@@ -2,7 +2,7 @@
 
 ## Technologies: HTML, CSS, JavaScript, Webpack
 
-### Dynamically rendered homepage using vanilla JavaScript
+### Single restaurant page using vanilla JavaScript
 
 ![Restaurant Page's Desktop Screenshot](./restaurant-page-desktop.gif?raw=true "Restaurant Page (Desktop)")
 
